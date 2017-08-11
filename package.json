@@ -1,0 +1,11 @@
+{
+    "name": "reveal.js",
+    "version": "1.0.0",
+    "description": "Full JS plugin that will sublimate your wallpaper for your connection pages for example",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sébastien DOUTRE",
+    "license": "MIT"
+}
