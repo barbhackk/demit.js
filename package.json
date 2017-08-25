@@ -9,6 +9,12 @@
     "author": "Sébastien DOUTRE",
     "license": "MIT",
     "devDependencies": {
-        "gulp": "^3.9.1"
+        "browser-sync": "^2.18.13",
+        "gulp": "^3.9.1",
+        "gulp-uglify": "^3.0.0"
+    },
+    "dependencies": {
+        "lodash": "^4.17.4",
+        "pump": "^1.0.2"
     }
 }
